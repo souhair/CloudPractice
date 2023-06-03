@@ -5,4 +5,5 @@ variable "keypair_name" {
 variable "region" {
 }
 
-variable "keypair_public_key" {}
+variable "keypair_public_key" {
+}
